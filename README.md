@@ -6,4 +6,4 @@
 
 ## Результат виконання програми
 
-![Виконання коду]()
+![Виконання коду](https://github.com/ppc-ntu-khpi/tui-2-rubanAlexUa/blob/master/Result.png)
